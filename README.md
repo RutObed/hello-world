@@ -1,6 +1,6 @@
 # hello-world
- **titulo**
+ **titulo
 ### subtitulo
 - Materia
 - Año
-- Curso
+- Curso**
