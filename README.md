@@ -1,6 +1,6 @@
-# hello-world
- **titulo
+# *Seminario*
+## hello-world
 ### subtitulo
 - Materia
 - Año
-- Curso**
+- Curso
