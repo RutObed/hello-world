@@ -1,6 +1,6 @@
 # hello-world
 ## titulo
 ### subtitulo
--Materia
--Año
--Curso
+- Materia
+- Año
+- Curso
