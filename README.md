@@ -1,7 +1,7 @@
 # *Seminario* :sunny:
 ## hello-world
 ### subtitulo
-- Materia
+1. Materia
 - Año
 - Curso
-
+[https://es.wikipedia.org/wiki/Markdown] (URL "GitHub")
